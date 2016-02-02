@@ -1,0 +1,24 @@
+#!/usr/bin/ruby
+
+require "stringex"
+
+title = ARGV[0]
+if ( title.nil? )
+  puts "Usage: create-post \"[post title]\""
+  exit 1
+end
+
+time = Time.now();
+date = Time.now().strftime("%Y-%m-%d")
+
+filename = '_posts/' + date + '-' + title.to_url + '.markdown'
+
+template = "---
+layout: post
+title:  #{title}
+date:   #{time}
+categories:
+---
+"
+
+File.write(filename, template)
