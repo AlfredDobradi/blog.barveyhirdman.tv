@@ -1,0 +1,33 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Barvey Hirdman's Blog
+author: Alfred Dobradi
+email: barvey@barveyhirdman.tv
+description: > # this means to ignore newlines until "baseurl:"
+  I'm a Twitch streamer, a gaming enthusiast and a programmer. I play
+  a variety of games on my channel, but mostly prefer indie titles with
+  a dark atmosphere. I also mod on Twitch for my good friend, IronChefBobbyFlail
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://blog.barveyhirdman.tv" # the base hostname & protocol for your site
+twitter_username: alfreddobradi
+twitch_username: barveyhirdman
+
+category_dir: /
+permalink: pretty
+paginate: 10
+gems: [jekyll-paginate]
+
+rdiscount:
+  extensions:
+    - autolink      # greedily urlify links
+    - footnotes     # footnotes
+    - smart         # typographic substitutions with SmartyPants
+
+# Build settings
+markdown: rdiscount
