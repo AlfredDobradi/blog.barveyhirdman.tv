@@ -4,12 +4,20 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+My name is Alfred Dobradi and I'm a 27 year old programmer from Hungary, trying to
+do this strimstram thing. My ultimate goal is to go full-time with this, currently
+trying to establish a good schedule that balances well with my job.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+I had my first livestream in around the end of 2011, playing Euro Truck Simulator
+without a cam or even talking. It was kinda pointless but I had fun doing it, so I
+didn't really care back then. After a while I started using a camera and switched to
+playing Torchlight 2. I used to have a couple of regular viewers back then and I
+had two decent 24 hour marathons donating a few hundred bucks to charity.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+You can guess, this didn't last too long and life got in the way, but I realized
+recently that I need casting more than ever. Ever since I got back on to Twitch I
+made lots of new friends and have had a really good time. I'm struggling with lots
+some emotional and mental issues, but streaming and being part of these communities
+help immensely.
+
+Well here I am now, still not giving up on the dream. 
