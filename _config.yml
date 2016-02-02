@@ -20,8 +20,6 @@ twitch_username: barveyhirdman
 
 category_dir: /
 permalink: pretty
-paginate: 10
-gems: [jekyll-paginate]
 
 rdiscount:
   extensions:
