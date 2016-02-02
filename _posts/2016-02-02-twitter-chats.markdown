@@ -2,7 +2,7 @@
 layout: post
 title:  Twitter chats
 date:   2016-02-03 00:28:00 +0100
-categories: social ideas
+categories: social, ideas
 ---
 So I've been thinking and figured there could be some kind of Twitter chat for people
 who stream or watch streams, to share experiences, preferences even and to do a bit of
