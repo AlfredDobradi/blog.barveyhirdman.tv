@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About me
+permalink: /about-me/
 ---
 
 My name is Alfred Dobradi and I'm a 27 year old programmer from Hungary, trying to
@@ -20,4 +20,4 @@ made lots of new friends and have had a really good time. I'm struggling with lo
 some emotional and mental issues, but streaming and being part of these communities
 help immensely.
 
-Well here I am now, still not giving up on the dream. 
+Well here I am now, still not giving up on the dream.
