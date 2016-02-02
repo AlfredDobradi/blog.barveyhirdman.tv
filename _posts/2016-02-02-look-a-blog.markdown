@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  My new blog!
+title:  Look! A blog!
 date:   2016-02-02 12:16:38 +0100
 categories: news
 ---
