@@ -25,6 +25,8 @@ another message which you can use to identify your phone. If everything went rig
 you should already see the Twitch account listed in Authy.
 
 You're finished with the setup, next time you're logging in to Twitch you'll have to launch
-the app and use the token on the screen and that's it.
+the app and use the token on your phone's screen and that's it.
 
 Congratulations, your Twitch account is now protected!
+
+<iframe width="640" height="480" src="https://www.youtube.com/embed/HpQmFfdYFzY" frameborder="0"></iframe>
