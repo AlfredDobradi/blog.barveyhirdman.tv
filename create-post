@@ -22,3 +22,4 @@ categories:
 "
 
 File.write(filename, template)
+puts "Created " + filename
