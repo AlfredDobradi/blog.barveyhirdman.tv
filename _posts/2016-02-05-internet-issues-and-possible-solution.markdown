@@ -4,7 +4,6 @@ title: Internet issues and possible solution
 date: "2016-02-05 12:58:48 +0100"
 categories: news
 published: true
-category: news
 ---
 
 As I already mentioned a couple of times on stream, I have lots of issues with my internet speed. To be perfectly honest, it's not even my internet subscription. Last year I had to move from my previous flat, because the landlord decided to sell it, but it actually turned out fine, except this little internet-fiasco.
