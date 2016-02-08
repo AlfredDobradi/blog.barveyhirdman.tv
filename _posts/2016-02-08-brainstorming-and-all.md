@@ -1,5 +1,6 @@
 ---
 published: true
+title: Brainstorming and all
 layout: post
 date: "2016-02-08 10:43:00 +0100"
 categories: idea
