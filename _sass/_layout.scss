@@ -16,6 +16,39 @@
     position: relative;
 }
 
+.site-subheader {
+    background-color: $grey-color-light;
+    color: $brand-color;
+    border-bottom: 2px solid $brand-color;
+    clear: both;
+    padding: 10px 0;
+
+    .col {
+      width: 50%;
+      display: block;
+      float: left;
+      font-size: $subheader-font-size;
+      font-weight: bold;
+
+      a {
+        &:hover {
+          text-decoration: underline;
+        }
+        &.red {
+          color: red;
+        }
+      }
+
+      &.left {
+        text-align: left;
+      }
+
+      &.right {
+        text-align: right;
+      }
+    }
+}
+
 .site-title {
     font-size: 26px;
     font-weight: 300;
