@@ -4,6 +4,7 @@ title: About schedule and the TwitchCon tracker
 date: "2016-02-04 09:58:20 +0100"
 categories: stream
 published: true
+comments: true
 ---
 
 There've been two changes regarding my stream recently. One is bigger, the other one is just a visual thing, but I wanted to write a few words about them anyway.

@@ -4,6 +4,7 @@ title: Brainstorming and all
 layout: post
 date: "2016-02-08 10:43:00 +0100"
 categories: idea
+comments: true
 ---
 
 I've been thinking lately and came up with a couple of ideas that could help getting people together and having fun. I already posted about the Twitter chat, so I won't touch that subject in depth, but there has been improvements in both people wanting to get involved and idea-wise as well so it'll definitely happen.

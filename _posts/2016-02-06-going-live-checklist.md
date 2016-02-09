@@ -4,6 +4,7 @@ title: Going live checklist
 date: "2016-02-06 12:43:00 +0100"
 categories: help
 published: true
+comments: true
 ---
 
 Since I'm a dingus and usually forget something when going live with my stream, I compiled a little checklist for myself. I highly recommend writing checklists for everything requiring more than 3-4 steps becuause if anyone's as prone to making errors as me, it will benefit you greatly. Here's my going live checklist.

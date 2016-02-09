@@ -4,6 +4,7 @@ title:  Protect ya neck - Two-Factor Auth
 date:   2016-02-03 15:08:07 +0100
 categories: help
 published: true
+comments: true
 ---
 Today [Zcotticus](http://twitch.tv/zcotticus) mentioned the Two-Factor Auth on Twitch
 and I realized not only I don't have it enabled, I didn't even know it existed. I'm
