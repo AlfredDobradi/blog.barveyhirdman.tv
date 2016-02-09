@@ -1,0 +1,13 @@
+---
+layout: post
+title:  Comments
+date:   2016-02-09 10:31:28 +0100
+categories: news
+comments: true
+published: true
+---
+I just finished setting up and implementing Disqus comments on this blog. Feel free
+to share your thoughts, I'm always up to a bit of conversation.
+
+In other news, I almost finished Super Meat Boy light world playthrough yesterday.
+All I have to do is kill Dr Fetus. Easier said than done.
