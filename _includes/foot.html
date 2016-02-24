@@ -43,7 +43,6 @@
 }(document, "script", "twitter-wjs"));</script>
 
 {% if page.comments %}
-
 <script>
 var disqus_config = function () {
   this.page.url = 'http://blog.barveyhirdman.tv{{ page.url }}';
@@ -61,3 +60,10 @@ s.setAttribute('data-timestamp', +new Date());
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
 {% endif %}
+
+<script src="http://code.jquery.com/jquery-2.2.1.min.js"></script>
+<script>
+  $.get('/game.json', function(data) {
+    console.log($('.site-subheader a.game').first().html(data.name).attr('href',data.url));
+  });
+</script>
