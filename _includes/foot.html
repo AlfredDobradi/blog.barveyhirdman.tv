@@ -64,6 +64,6 @@ s.setAttribute('data-timestamp', +new Date());
 <script src="http://code.jquery.com/jquery-2.2.1.min.js"></script>
 <script>
   $.get('/game.json', function(data) {
-    console.log($('.site-subheader a.game').first().html(data.name).attr('href',data.url));
+    $('.site-subheader a.game').first().html(data.name).attr('href',data.url);
   });
 </script>
